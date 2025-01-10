@@ -3,12 +3,11 @@
 <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=lyric228&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p> 
 <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=lyric228&theme=dracula" /> </p>
 <p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyric228&layout=compact&langs_count=10&show_icons=true&theme=dracula" /> </p>
-<a href="https://discord.com/users/696988079352709140"><img src="https://lanyard.cnrad.dev/api/696988079352709140?borderRadius=20px&bg=00000000" alt="Discord" /></a>
-
-![](https://hit.yhype.me/github/profile?account_id=154961945)
-[![Discord Presence](https://lanyard.cnrad.dev/api/792989961556459520)](https://discord.com/users/792989961556459520)
+<a href="https://discord.com/users/792989961556459520"><img src="https://lanyard.cnrad.dev/api/792989961556459520?borderRadius=20px&bg=00000000" alt="Discord" /></a>
 
 <!--
+![](https://hit.yhype.me/github/profile?account_id=154961945)
+
 **lyric228/lyric228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
