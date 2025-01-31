@@ -2,7 +2,7 @@
 
 <p align="center"> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=lyric228&count_private=true&show_icons=true&show_icons=true&theme=midnight-purple" /> </p> 
 <p align="center"> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyric228&layout=compact&langs_count=10&show_icons=true&theme=midnight-purple" /> </p>
-<a href="https://discord.ru"><img src="https://lanyard.cnrad.dev/api/792989961556459520?borderRadius=20px&bg=00000000" alt="Discord" /></a>
+<a align="center" href="https://discord.ru"><img src="https://lanyard.cnrad.dev/api/792989961556459520?borderRadius=20px&bg=00000000" alt="Discord" /></a>
 
 <!--
 ![](https://hit.yhype.me/github/profile?account_id=154961945)
