@@ -30,9 +30,10 @@
 ! 🔌 NetworkManager   | root              | ░░░   0.0  |   0.1  !
 +---------------------+-------------------+------------+--------+
 ```
-
+<!--
 ### <span style="color: #17d179">GitHub Activity</span> 📈
 <div>
 <img align="left" alt="Metrics" src="https://github-readme-stats.vercel.app/api?username=lyric228&count_private=true&show_icons=true&show_icons=true&theme=midnight-purple" />
 <img align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyric228&layout=compact&langs_count=8&show_icons=true&theme=midnight-purple" />
 </div>
+-->
