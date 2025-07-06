@@ -3,34 +3,34 @@
 </h1>
 
 ```
-      /\          📦 Arch Linux x86_64
-     /  \         ├─🐧 Linux 6.14.0-arch1-1
-    /    \        ├─📦 1055 (pacman)
-   /      \       └─💻 zsh 5.9
-  /   ,,   \      🖥️ Hyprland v0.48.1 (Wayland)
- /   |  |   \     ├─🎨 Flat-Remix-Blue-Dark [Qt]
-/_-''    ''-_\    ├─🔠 Adwaita (24px)
-                  └─🖥️ alacritty 0.15.1
-
-💻 SYSTEM ────────────────────────────────────────────
-├─🚀 12-thread CPU @ 4.40GHz | 🎮 GPU @ 1920x1080
-├─💾 2.55G/31.2G RAM         | 🔥 0.60 0.63 0.67 Load
-└─⏱️ Uptime: 01:56:37        | 🌡️ 47°C
+                  -`                     lyrix@lyrix
+                 .o+`                    -----------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Host: B560M AORUS ELITE
+              `+oooooo:                  Kernel: Linux 6.15.4-2-cachyos
+              -+oooooo+:                 Uptime: 2 hours, 27 mins
+            `/:-:++oooo+:                Packages: 1843 (pacman), 16 (flatpak)
+           `/++++/+++++++:               Shell: zsh 5.9
+          `/++++++++++++++:              Display (AF24H1): 1920x1080 @ 144 Hz in 24" [External]
+         `/+++ooooooooooooo/`            WM: Hyprland 0.49.0 (Wayland)
+        ./ooosssso++osssssso+`           Theme: wallbash [Qt], Tokyo-Night [GTK2/3]
+       .oossssso-````/ossssss+`          Icons: Tela-circle-purple [Qt], Tela-circle-purple [GTK2/3]
+      -osssssso.      :ssssssso.         Font: Cantarell (10pt) [Qt], Cantarell (10pt) [GTK2/3]
+     :osssssss/        osssso+++.        Cursor: Bibata-Modern-Ice (20px)
+    /ossssssss/        +ssssooo/-        Terminal: alacritty 0.15.1
+  `/ossssso+/:-        -:/+osssso+-      Terminal Font: alacritty (11pt)
+ `+sso+:-`                 `.-/+oso:     CPU: 11th Gen Intel(R) Core(TM) i5-11400F (12) @ 4.40 GHz
+`++:.                           `-/+/    GPU: NVIDIA GeForce RTX 4070 [Discrete]
+.`                                 `/    Memory: 4.22 GiB / 31.20 GiB (14%)
+                                         Swap: 0 B / 4.00 GiB (0%)
+                                         Disk (/): 43.04 GiB / 233.47 GiB (18%) - btrfs
+                                         Disk (/home): 194.24 GiB / 953.87 GiB (20%) - btrfs
+                                         Local IP (wlan0): 192.168.252.135/24
+                                         Locale: en_US.UTF-8
 ```
 <!--
 ### <span style="color: #d1a317">System Monitor</span> 🔭
 -->
-```
-+---------------------+-------------------+------------+--------+
-|       Process       |       User        |    CPU%    |  MEM%  |
-+---------------------+-------------------+------------+--------+
-! 🦊 firefox          | lyrix             | ███▊  18.8 |   2.6  !
-! 🖥️ Hyprland         | lyrix             | █████ 29.8 |   0.5  !
-! 🛠️ waybar           | lyrix             | █▊    3.3  |   0.3  !
-! 📟 swaync           | lyrix             | █▎    0.7  |   0.2  !
-! 🔌 NetworkManager   | root              | ░░░   0.0  |   0.1  !
-+---------------------+-------------------+------------+--------+
-```
 <!--
 ### <span style="color: #17d179">GitHub Activity</span> 📈
 <div>
